@@ -1,0 +1,6 @@
+<Alloy>
+	<TabGroup onSelected="tabOnSelected">
+		<Require src="discover"></Require>
+		<Require src="favorites"></Require>
+	</TabGroup>
+</Alloy>

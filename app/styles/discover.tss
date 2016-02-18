@@ -1,0 +1,7 @@
+'.title':{
+	titleid:'Discover'
+}
+
+'Tab[platform=ios]':{
+	icon:'/images/radio_waves.png',
+}

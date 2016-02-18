@@ -1,0 +1,48 @@
+"#container" : {
+	layout:'vertical',
+	borderWidth:1,
+	borderColor:'#ccc'
+}
+
+"#coverImageView":{
+	width:Ti.UI.FILL
+}
+
+"#footer":{
+	layout:'vertical'
+}
+
+"#titleLabel":{
+	top:5,
+	left:10,
+	right:10,
+	width:Ti.UI.FILL
+}
+
+"#artistLabel":{
+	left:10,
+	right:10,
+	width:Ti.UI.FILL,
+	font:{
+		fontSize:12
+	}
+}
+
+"Button":{
+	font:{
+		fontSize:10
+	},
+	width:'50%',
+	height:50,
+	bottom:0
+}
+
+"#skipButton":{
+	left:5,
+	image:'/images/close.png'
+}
+
+"#favoriteButton":{
+	right:5,
+	image:'/images/heart.png'
+}

@@ -1,0 +1,13 @@
+<Alloy>
+	<View id="container">
+		<ImageView id="coverImageView"></ImageView>
+		<View id="footer">
+			<Label id="titleLabel"></Label>
+			<Label id="artistLabel"></Label>
+			<View>
+				<Button id="skipButton" onClick="skip"></Button>
+				<Button id="favoriteButton" onClick="favorite"></Button>
+			</View>
+		</View>
+	</View>
+</Alloy>

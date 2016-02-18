@@ -1,0 +1,16 @@
+<Alloy>
+	<Collection src="favorite" />
+	<Tab class="title">
+		<Window class="title">
+			<TableView dataCollection="favorite">
+				<TableViewRow>
+					<ImageView image="{image}" ></ImageView>
+					<View class="rowText">
+						<Label text="{title}" id="titleLabel"></Label>
+						<Label text="{artist}" id="artistLabel"></Label>												
+					</View>
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

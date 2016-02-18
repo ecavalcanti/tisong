@@ -1,0 +1,6 @@
+<Alloy>
+	<Tab class="title">
+		<Window class="title" id="discoverWindow" onOpen="open">
+		</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="Discover">Discover</string>
+	<string name="Favorites">Favorites</string>
+	<string name="Skip">Skip</string>
+	<string name="Favorite">Favorite</string>
+	<string name="Loading">Loading...</string>
+</resources>

@@ -1,0 +1,2 @@
+Alloy.Collections.favorite.fetch();
+

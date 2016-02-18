@@ -1,0 +1,7 @@
+"Window":{
+	backgroundColor:'#fff'
+}
+
+"Label[platform=android]":{
+	color:'#000'
+}
